@@ -1,7 +1,7 @@
 {
   "name": "photoclub-official",
   "version": "0.1.0",
-  "homepage": "https://sunnyshineshow.github.io/siit-photoclub/",
+  "homepage": "http://siit.photoandmedia.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
