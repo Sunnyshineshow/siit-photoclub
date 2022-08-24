@@ -22,7 +22,7 @@ function App() {
         </header>
         <body>
           <Routes>
-            <Route path="/" element={<Gallery />}></Route>
+            <Route path="/siit-photoclub/" element={<Gallery />}></Route>
             <Route path="./gallery" element={<Gallery />}></Route>
             {/* Add your Route here */}
             {/* <Route path="/about" element={<About />}></Route> */}
