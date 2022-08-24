@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siit-photoclub/static/css/main.4de0fa12.css",
+    "main.js": "/siit-photoclub/static/js/main.858fb9e8.js",
+    "static/js/787.4c77db48.chunk.js": "/siit-photoclub/static/js/787.4c77db48.chunk.js",
+    "static/media/beta3_Final Colored Transparent.png": "/siit-photoclub/static/media/beta3_Final Colored Transparent.414a2c858a85d981529c.png",
+    "index.html": "/siit-photoclub/index.html",
+    "main.4de0fa12.css.map": "/siit-photoclub/static/css/main.4de0fa12.css.map",
+    "main.858fb9e8.js.map": "/siit-photoclub/static/js/main.858fb9e8.js.map",
+    "787.4c77db48.chunk.js.map": "/siit-photoclub/static/js/787.4c77db48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.858fb9e8.js"
+  ]
+}
